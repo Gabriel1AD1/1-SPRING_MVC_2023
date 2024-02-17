@@ -33,7 +33,7 @@ VERSION TERMINADA
 ## Estructura del Proyecto
 
 - /src: Archivos fuente.
-- /public: Archivos públicos.
+- /resource: Archivos públicos.
 
 ## Tecnologías Utilizadas
 
